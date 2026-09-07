@@ -1,0 +1,1 @@
+import{i as e}from"./index-CvMe140j.js";import{t}from"./YallaMotorMaxPage-CO9vFBTp.js";var n=e(),r=()=>(0,n.jsx)(t,{locale:`en`});export{r as component};
