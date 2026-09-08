@@ -1,0 +1,1 @@
+import{i as e}from"./index-CY-JmNIX.js";import{t}from"./SellMyCarDemoPage-DxR6Nn9D.js";var n=e(),r=()=>(0,n.jsx)(t,{locale:`en`});export{r as component};
