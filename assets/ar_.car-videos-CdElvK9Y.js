@@ -1,1 +1,0 @@
-import{i as e}from"./index-mki1hbHI.js";import{t}from"./VideoMarketplacePage-G_LvTQEE.js";var n=e(),r=()=>(0,n.jsx)(t,{locale:`ar`});export{r as component};
