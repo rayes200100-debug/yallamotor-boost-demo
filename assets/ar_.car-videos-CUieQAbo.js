@@ -1,1 +1,0 @@
-import{i as e}from"./index-CSstf41n.js";import{t}from"./VideoMarketplacePage-9IY7VHx9.js";var n=e(),r=()=>(0,n.jsx)(t,{locale:`ar`});export{r as component};

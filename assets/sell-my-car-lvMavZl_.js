@@ -1,1 +1,0 @@
-import{i as e}from"./index-CSstf41n.js";import{t}from"./SellMyCarDemoPage-DzLD3uEC.js";var n=e(),r=()=>(0,n.jsx)(t,{locale:`en`});export{r as component};
