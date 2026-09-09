@@ -1,0 +1,1 @@
+import{i as e}from"./index-mki1hbHI.js";import{t}from"./YallaMotorMaxPage-DnMuA8xl.js";var n=e(),r=()=>(0,n.jsx)(t,{locale:`ar`});export{r as component};

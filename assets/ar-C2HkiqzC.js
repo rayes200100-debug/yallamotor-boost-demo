@@ -1,1 +1,0 @@
-import{i as e}from"./index-CY-JmNIX.js";import{t}from"./YallaMotorMaxPage-Ij_8Mmuo.js";var n=e(),r=()=>(0,n.jsx)(t,{locale:`ar`});export{r as component};
