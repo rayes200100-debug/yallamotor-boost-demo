@@ -1,0 +1,1 @@
+import{i as e}from"./index-Cx6udy4M.js";import{t}from"./SellMyCarDemoPage-BAQ9SZFu.js";var n=e(),r=()=>(0,n.jsx)(t,{locale:`ar`});export{r as component};

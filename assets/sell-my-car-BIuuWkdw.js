@@ -1,1 +1,0 @@
-import{i as e}from"./index-BBhB0_D5.js";import{t}from"./SellMyCarDemoPage-DZUUL_p3.js";var n=e(),r=()=>(0,n.jsx)(t,{locale:`en`});export{r as component};
